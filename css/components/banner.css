@@ -1,0 +1,21 @@
+.btn-treehouse {
+  background: #6AD58B;
+  color: white;
+  border-radius: 30px;
+  padding:16px 36px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+  display: inline-block;
+}
+.btn-treehouse:hover {
+  color: #59C263;
+}
+
+.banner {
+  background-image: url('../../images/background.png');
+  color:white;
+  display: flex;
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+}
